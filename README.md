@@ -1,6 +1,6 @@
 # Project milestone 3 - RAP
 
-:warning: **Note** that our notebook won't render correctly on github, as it uses plotly to generate interactive figures, which requires it's javascript library. The fully rendered version is available [right here](https://nbviewer.jupyter.org/github/epfl-ada/ada-2020-project-milestone-p3-p3_rap/blob/main/notebook.ipynb).
+:warning: **Note** that our notebook won't render correctly on github, as it uses plotly to generate interactive figures, which requires it's javascript library. The fully rendered version is available [right here](https://nbviewer.jupyter.org/github/epfl-ada/ada-2020-project-milestone-p3-p3_rap/blob/main/notebook.ipynb) though the maps didn't show properly, so we also include a generated html version in `notebook.html`, which renders correctly.
 
 The **datastory** is available here: [https://antonragot.github.io/Policing-Patterns/](https://antonragot.github.io/Policing-Patterns/). 
 
