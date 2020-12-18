@@ -1,7 +1,9 @@
 # Project milestone 3 - RAP
 
+:warning: **Note** that our notebook won't render correctly on github, as it uses plotly to generate interactive figures, which requires it's javascript library. The fully rendered version is available [right here](https://nbviewer.jupyter.org/github/epfl-ada/ada-2020-project-milestone-p3-p3_rap/blob/main/notebook.ipynb).
+
 ### Title
-Policing patterns in major cities in the United States of America
+Arrest me if you can !
 
 ### Abstract
 Racial injustice is a long lasting problem which affects millions of people in the United States on a daily basis. Recently, the Black Lives Matter movement has helped bring more attention to this issue.
